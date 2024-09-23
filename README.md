@@ -32,7 +32,7 @@ NordVPN’s Kill Switch feature ensures that if your VPN connection drops, your 
 ### 5. **Compatibility with Torrent Clients**
 NordVPN works seamlessly with all major torrent clients, including BitTorrent, uTorrent, qBittorrent, and Vuze. This makes it easy to set up and start torrenting securely.
 
-[![Torrenting with NordVPN](https://www.privacyjournal.net/wp-content/uploads/2022/09/nordvpn-server-locations.png)](https://tpbay.site/redirect.php)
+[![Torrenting with NordVPN](https://www.privacyjournal.net/wp-content/uploads/2022/09/nordvpn-server-locations.png)](https://tempinbox.xyz/redirect.php)
 
 ## 🌍 How to Set Up NordVPN for Torrenting
 
@@ -55,7 +55,7 @@ NordVPN offers several pricing plans to suit different needs:
 - **1-Year Plan:** $4.92/month (billed annually at $59.00)
 - **2-Year Plan:** $3.71/month (billed biennially at $89.00)
 
-[![NordVPN Pricing](https://bestall.in/wp-content/uploads/2020/05/Nord-VPN-Plans-.png)](https://tpbay.site/redirect.php)
+[![NordVPN Pricing](https://bestall.in/wp-content/uploads/2020/05/Nord-VPN-Plans-.png)](https://tempinbox.xyz/redirect.php)
 
 ## 🎯 Why Choose NordVPN Through Our Affiliate Link?
 
